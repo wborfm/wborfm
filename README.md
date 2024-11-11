@@ -1,4 +1,4 @@
-## Hi there 👋
+# You're probably looking for [our org page](https://github.com/WBOR-91-1-FM/)!
 
 <!--
 **wborfm/wborfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
